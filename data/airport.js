@@ -1,0 +1,1 @@
+window.AIRPORT = { gate:'Gate 5', flightTime:'18:30', remainingMinutes:58, shoppingMinutes:32, zones:['Zone A','Zone B','Zone C'], note:'Prototype schematic — not an actual airport map or live flight status.' };
